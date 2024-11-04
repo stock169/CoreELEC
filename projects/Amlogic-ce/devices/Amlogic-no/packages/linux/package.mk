@@ -5,7 +5,7 @@
 
 PKG_NAME="linux"
 PKG_VERSION="eb19ead5a86a75d9ad02aac9bfe1299881fdaa09"
-PKG_SHA256="e890036b68da458355b7d47bac7da48ac7b7106d704eeedab37e8c2830e4d8d8"
+PKG_SHA256="4a89078d6d80a53b9a0936762878e144b01113180448cf0ffa819e6e3dae2844"
 PKG_LICENSE="GPL"
 PKG_SITE="http://www.kernel.org"
 PKG_URL="https://github.com/stock169/CoreELEC/releases/download/untagged-a92d75b7ff52c5cbc24c/linux-amlogic-eb19ead5a86a75d9ad02aac9bfe1299881fdaa09.tar.gz"
